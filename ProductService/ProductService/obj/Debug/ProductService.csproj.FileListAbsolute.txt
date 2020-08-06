@@ -1,0 +1,6 @@
+D:\JAN 2017 SEM 2\Shem\C# Projects\ProductService\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+D:\JAN 2017 SEM 2\Shem\C# Projects\ProductService\ProductService\bin\Debug\ProductService.dll.config
+D:\JAN 2017 SEM 2\Shem\C# Projects\ProductService\ProductService\bin\Debug\ProductService.dll
+D:\JAN 2017 SEM 2\Shem\C# Projects\ProductService\ProductService\bin\Debug\ProductService.pdb
+D:\JAN 2017 SEM 2\Shem\C# Projects\ProductService\ProductService\obj\Debug\ProductService.dll
+D:\JAN 2017 SEM 2\Shem\C# Projects\ProductService\ProductService\obj\Debug\ProductService.pdb
